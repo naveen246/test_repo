@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 
-gem 'pronto'
-gem 'pronto-rubocop', require: false
-gem 'pronto-flay', require: false
+gem 'closure', git: 'https://naveen_c@bitbucket.org/naveen_c/closure.git'
