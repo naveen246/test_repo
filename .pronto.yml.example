@@ -1,3 +1,6 @@
 github:
-  access_token: 
+  access_token:
   pull_request_id: 
+
+bitbucket:
+  refresh_token:
