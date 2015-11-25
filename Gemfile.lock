@@ -1,9 +1,8 @@
 GIT
   remote: https://naveen_c@bitbucket.org/naveen_c/closure.git
-  revision: fd40abf271bfa95fc8248664e955cd88ae61600a
+  revision: 87dc7e07325780fd4f3629b948928a651a83e4e8
   specs:
-    closure (0.1.0)
-      pronto
+    closure (0.1.1)
       pronto-brakeman
       pronto-flay
       pronto-rails_best_practices
